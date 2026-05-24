@@ -1,0 +1,21 @@
+name: Generate Meta Files — Aloe Skincare
+on:
+  schedule:
+    - cron: '30 9 * * *'
+  workflow_dispatch:
+jobs:
+  meta:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python generate_meta.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: brightlane
+          GH_REPO: aloe-skincare-landing
