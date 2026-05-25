@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+
+# Sitemaps
+Sitemap: https://brightlane.github.io/aloe-skincare-landing/sitemap.xml
+
+# AI Crawlers
+Sitemap: https://brightlane.github.io/aloe-skincare-landing/llms.txt
