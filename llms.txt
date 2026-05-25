@@ -19,9 +19,20 @@ Brand: AloeSkincareHub
 - Réparneu Gold Anti-Aging Set — $199.99
 
 ## Main Pages
+- [about.html](https://brightlane.github.io/aloe-skincare-landing/about.html)
+- [blog-index.html](https://brightlane.github.io/aloe-skincare-landing/blog-index.html)
+- [comparison.html](https://brightlane.github.io/aloe-skincare-landing/comparison.html)
+- [contact.html](https://brightlane.github.io/aloe-skincare-landing/contact.html)
+- [disclosure.html](https://brightlane.github.io/aloe-skincare-landing/disclosure.html)
+- [eczema.html](https://brightlane.github.io/aloe-skincare-landing/eczema.html)
+- [everyday-hero.html](https://brightlane.github.io/aloe-skincare-landing/everyday-hero.html)
+- [family-packs.html](https://brightlane.github.io/aloe-skincare-landing/family-packs.html)
+- [faq.html](https://brightlane.github.io/aloe-skincare-landing/faq.html)
+- [reparneu.html](https://brightlane.github.io/aloe-skincare-landing/reparneu.html)
+- [tips.html](https://brightlane.github.io/aloe-skincare-landing/tips.html)
 
 ## Blog Posts
-- Blog posts published daily at 9AM UTC
+- [aloe-vera-vs-hyaluronic-acid-which-is-better-for-dry-skin-2026-05-25.html](https://brightlane.github.io/aloe-skincare-landing/blog/aloe-vera-vs-hyaluronic-acid-which-is-better-for-dry-skin-2026-05-25.html)
 
 ## Topics Covered
 - Organic aloe vera skincare reviews
